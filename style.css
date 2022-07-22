@@ -12,10 +12,11 @@ body{
 }
 .canvas{
     margin: 0 auto;
-    height: 480px;
-    width: 480px;
+    height: 512px;
+    width: 512px;
     background-color: white;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .pixel{
